@@ -1,3 +1,6 @@
+## Preview
+
+![Hypr Helper UI](screenshot.png)
 # Hypr Helper
 
 A GTK-based Hyprland helper panel with:
