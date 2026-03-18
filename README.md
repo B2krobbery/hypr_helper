@@ -12,7 +12,6 @@ A GTK-based Hyprland helper panel with:
 * 🕒 Clock
 * ⚙️ CPU / RAM / GPU usage
 * 🌡 CPU temperature
-* 🌦 Weather (wttr.in)
 * 🔘 Quick control buttons
 
 ---
