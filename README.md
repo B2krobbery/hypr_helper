@@ -1,6 +1,9 @@
-## Preview
-![UI 1](screenshot.png)
-![UI 2](screenshot2.png)
+## 🔥 Preview
+
+<p align="center">
+  <img src="screenshot1.png" width="45%">
+  <img src="screenshot2.png" width="45%">
+</p>
 # Hypr Helper
 
 A GTK-based Hyprland helper panel with:
