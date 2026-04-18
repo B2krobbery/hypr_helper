@@ -60,6 +60,3 @@ g++ hypr_helper.cpp -o hypr_helper `pkg-config --cflags --libs gtkmm-3.0 gtk-lay
 ## 👤 Author
 
 Visal Vijay
-
-
-Update README for badge test
